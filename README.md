@@ -45,6 +45,7 @@ I am a final-year Computer Science and Engineering undergraduate at Kumaraguru C
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" title="Postman" /></a>
+<a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white" title="REST API" height="48" /></a>
 
 ### Tools & DevOps
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
@@ -66,7 +67,4 @@ I am a final-year Computer Science and Engineering undergraduate at Kumaraguru C
 <div align="center">
 
 📫 **sharan04052005@gmail.com**
-
-<img src="https://komarev.com/ghpvc/?username=sharan-7os&style=flat-square&color=4CD9C0" alt="profile views"/>
-
 </div>
