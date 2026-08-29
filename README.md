@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Sharan+B+%F0%9F%91%8B;C%2B%2B+%26+DSA+Enthusiast;MERN+Stack+Developer;Exploring+Agentic+AI+%26+DevOps&font=Fira%20Code&center=true&width=600&height=50&color=4CD9C0&vCenter=true&size=24"/>
-
-<br>
+# Sharan B
 
 <a href="https://www.linkedin.com/in/sharan-balakrishnan-7os4505/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,30 +16,54 @@
 
 <br>
 
-## 🧰 Tech Stack
+## About Me
+
+I am a final-year Computer Science and Engineering undergraduate at Kumaraguru College of Technology, with a strong foundation in Data Structures, Algorithms, and Object-Oriented Programming using C++. I specialize in full-stack web development using the MERN stack, and have gained practical exposure through internships in web development and cloud networking. I am currently expanding my expertise into Agentic AI, DevOps practices, and the fundamentals of cyber security, with the goal of building secure, scalable, and well-engineered software systems. I am actively seeking opportunities as a Software Developer or Programmer Analyst.
+
+<br>
+
+## Tech Stack
 
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,c&theme=dark" />
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" title="Java" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" title="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" /></a>
+<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" title="C" /></a>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" title="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" title="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" title="CSS" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" /></a>
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman&theme=dark" />
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" title="Express.js" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" title="Postman" /></a>
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,kubernetes,aws,githubactions&theme=dark" />
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" /></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" title="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" title="AWS" /></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" /></a>
 
 ### Security
-<img src="https://skillicons.dev/icons?i=kali&theme=dark" />
+<a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali" title="Kali Linux" /></a>
 
 </div>
 
 <br>
 
-
+<div align="center">
 
 📫 **sharan04052005@gmail.com**
 
