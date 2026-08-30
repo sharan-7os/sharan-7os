@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a final-year Computer Science and Engineering undergraduate at Kumaraguru College of Technology, with a strong foundation in Data Structures, Algorithms, and Object-Oriented Programming using C++. I specialize in full-stack web development using the MERN stack, and have gained practical exposure through internships in web development and cloud networking. I am currently expanding my expertise into Agentic AI, DevOps practices, and the fundamentals of cyber security, with the goal of building secure, scalable, and well-engineered software systems. I am actively seeking opportunities as a Software Developer or Programmer Analyst.
+I am a final-year Computer Science and Engineering undergraduate at Kumaraguru College of Technology, with a strong foundation in Data Structures, Algorithms, and Object-Oriented Programming using C++. I specialize in full-stack web development using the MERN stack, and have gained practical exposure through internships in web development and cloud networking. I am currently expanding my expertise into DevOps practices, and the fundamentals of cyber security, with the goal of building secure, scalable, and well-engineered software systems. I am actively seeking opportunities as a Software Developer or Programmer Analyst.
 
 <br>
 
